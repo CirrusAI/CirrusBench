@@ -3,7 +3,7 @@
 **Language / 语言：** English | [中文](docs/README_zh.md)
 
 Cirrus is a modular benchmark framework for evaluating Large Language Model (LLM) agents in realistic customer-service simulation scenarios. It supports multi-turn dialogue, tool-calling tasks, multi-provider LLM backends, and automated scoring.
-
+Our paper on arXiv: CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments https://arxiv.org/abs/2603.28569 .
 ---
 
 ## Table of Contents
