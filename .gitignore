@@ -1,0 +1,38 @@
+# macOS
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# 虚拟环境
+venv/
+myenv/
+
+# 数据目录
+data/
+
+# 输出目录
+outputs/
+
+# 敏感配置
+.env
+configs/api_keys.yaml
+
+# 测试缓存
+.pytest_cache/
+
+# 测试目录中排除 demo 文件夹
+tests/demo/
+
+# Jupyter
+notebooks/
+
+# Claude Code 内部文件
+tasks.json
+
+# 文档
+LLM_SERVICE_USAGE.md
